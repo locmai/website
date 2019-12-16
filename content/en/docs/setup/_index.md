@@ -76,7 +76,7 @@ The following production environment solutions table lists the providers and the
 | [Cloud Foundry Container Runtime (CFCR)](https://docs-cfcr.cfapps.io/)       |     |  |   | &#x2714; |&#x2714; |
 | [CloudStack](https://cloudstack.apache.org/)           |      |  |   | | &#x2714;|
 | [Canonical](https://ubuntu.com/kubernetes)      |       &#x2714;       | &#x2714;       |      &#x2714;       | &#x2714;     |&#x2714;  | &#x2714;
-| [Containership](https://containership.io/containership-platform)            | &#x2714;       |&#x2714;  |     |     |                   |
+| [Containership](https://containership.io)            | &#x2714;       |&#x2714;  |     |     |                   |
 | [D2iQ](https://d2iq.com/) |  | [Kommander](https://d2iq.com/solutions/ksphere) | [Konvoy](https://d2iq.com/solutions/ksphere/konvoy) | [Konvoy](https://d2iq.com/solutions/ksphere/konvoy) | [Konvoy](https://d2iq.com/solutions/ksphere/konvoy) | [Konvoy](https://d2iq.com/solutions/ksphere/konvoy) |
 | [Digital Rebar](https://provision.readthedocs.io/en/tip/README.html)            |        |  |      |     |  | &#x2714;
 | [DigitalOcean](https://www.digitalocean.com/products/kubernetes/)        | &#x2714;      |  |      |     |            |
@@ -89,7 +89,7 @@ The following production environment solutions table lists the providers and the
 | [IBM](https://www.ibm.com/in-en/cloud)        | [IBM Cloud Kubernetes Service](https://cloud.ibm.com/kubernetes/catalog/cluster)| |[IBM Cloud Private](https://www.ibm.com/in-en/cloud/private) | |
 | [Ionos](https://www.ionos.com/enterprise-cloud)        | [Ionos Managed Kubernetes](https://www.ionos.com/enterprise-cloud/managed-kubernetes) | [Ionos Enterprise Cloud](https://www.ionos.com/enterprise-cloud) | |
 | [Kontena Pharos](https://www.kontena.io/pharos/)          |    |&#x2714;|    &#x2714;    |        |         |
-| [KubeOne](https://github.com/kubermatic/kubeone) |  | &#x2714; | &#x2714; | &#x2714; | &#x2714; | &#x2714; |
+| [KubeOne](https://kubeone.io/) |  | &#x2714; | &#x2714; | &#x2714; | &#x2714; | &#x2714; |
 | [Kubermatic](https://kubermatic.io/) | &#x2714; | &#x2714; | &#x2714; | &#x2714; | &#x2714; |  |
 | [KubeSail](https://kubesail.com/)    | &#x2714;       |  |      |     |        |
 | [Kubespray](https://kubespray.io/#/)       |       |    |       |&#x2714;  | &#x2714; | &#x2714; |
